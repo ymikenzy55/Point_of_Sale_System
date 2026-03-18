@@ -84,7 +84,7 @@ export const Sidebar: React.FC<SidebarProps> = ({ activeTab, setActiveTab }) => 
             <div className="bg-[#5D4037] p-2 rounded-xl text-white">
               <Coffee size={24} />
             </div>
-            <span className="font-bold text-xl text-[#5D4037] tracking-tight">Bean & Brew</span>
+            <span className="font-bold text-xl text-[#5D4037] tracking-tight">Best Supermarket</span>
           </div>
           
           <div className="px-3 mb-6">

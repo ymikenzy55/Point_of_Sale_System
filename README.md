@@ -35,6 +35,23 @@ npm run dev
 - Email: bob@store.com
 - Password: cashier123
 
+## Deploy to Vercel
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ymikenzy55/Point_of_Sale_System)
+
+Or manually:
+
+```bash
+# Install Vercel CLI
+npm i -g vercel
+
+# Deploy
+vercel
+```
+
+When backend is ready, add environment variable in Vercel dashboard:
+- `VITE_API_URL` = your Render backend URL
+
 ## Tech Stack
 
 - React + TypeScript

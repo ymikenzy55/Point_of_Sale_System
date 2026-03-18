@@ -55,9 +55,9 @@ export const InvoiceModal: React.FC<InvoiceModalProps> = ({ transaction, isOpen,
         <div className="p-8 overflow-y-auto flex-1 bg-white print:p-0 print:overflow-visible">
           {/* Business Info */}
           <div className="text-center mb-8 pb-8 border-b border-dashed border-gray-300">
-            <h1 className="text-3xl font-bold text-[#5D4037] mb-2 uppercase tracking-tight">Bean & Brew</h1>
-            <p className="text-sm text-[#8D6E63]">123 Coffee Lane, Brewtown, CA 90210</p>
-            <p className="text-sm text-[#8D6E63]">(555) 123-4567 • info@beanandbrew.com</p>
+            <h1 className="text-3xl font-bold text-[#5D4037] mb-2 uppercase tracking-tight">Best Supermarket</h1>
+            <p className="text-sm text-[#8D6E63]">123 Market Street, Accra, Ghana</p>
+            <p className="text-sm text-[#8D6E63]">+233 123 456 789 • info@bestsupermarket.com</p>
           </div>
 
           {/* Transaction Meta */}

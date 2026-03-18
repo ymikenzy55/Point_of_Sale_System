@@ -61,7 +61,7 @@ export const Login = () => {
           <div className="inline-flex items-center justify-center w-20 h-20 rounded-full bg-[#5D4037] text-white mb-4 shadow-lg">
             <LogIn size={40} />
           </div>
-          <h1 className="text-4xl font-bold text-[#3E2723] mb-2">Bean & Brew POS</h1>
+          <h1 className="text-4xl font-bold text-[#3E2723] mb-2">Best Supermarket</h1>
           <p className="text-[#8D6E63]">Sign in to continue</p>
         </div>
 

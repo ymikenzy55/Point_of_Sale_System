@@ -215,6 +215,7 @@ export const Dashboard = ({ onNavigate }: DashboardProps = {}) => {
                 ))}
               </tbody>
             </table>
+            </div>
           </div>
         )}
       </div>
